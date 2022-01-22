@@ -10,7 +10,8 @@ while choices != '1' and choices != '2' and choices != '3':
 replit.clear()
 
 if choices == '1':
- import choice3c
+  print ("Oh no! You won't be allowed to work alone.")
+  import choice3c
 elif choices == '2':
  import choice3c
 elif choices == '3':
