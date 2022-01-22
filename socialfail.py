@@ -1,0 +1,1 @@
+"Sorry! To be a successful Hunter student, you need to have a healthy social life and to be kind to your peers. Try again to see if you can make better choices."

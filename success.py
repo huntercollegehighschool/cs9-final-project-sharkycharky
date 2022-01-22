@@ -1,0 +1,1 @@
+print ("Congratulations! You're a successful Hunter student--you passed your finals, and your classmates and teachers love you. You made the right choices. Now, how about trying again and taking a different path?")
